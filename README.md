@@ -9,7 +9,7 @@ lbyec72-ei2-p3-single_multidimensional_arrays-davidrenes created by GitHub Class
 <h3>Mean</h3>
 ![](mean.PNG)
 <h3>Standard Deviation</h3>
-![](std.PNG)
+![](stddev.PNG)
 <h3>Summation</h3>
 ![](summation.PNG)
 <h3>Matrix Operations</h3>
