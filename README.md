@@ -4,19 +4,19 @@ lbyec72-ei2-p3-single_multidimensional_arrays-davidrenes created by GitHub Class
 ![](1.JPG)
 <h3>Polynomial</h3>
 ![](2.JPG)
-<h3>Statistical Algorithm</h3>
+<h3>Statistical Algorithm Data Input</h3>
 ![](3.JPG)
-<h3>Mean</h3>
+<h3>Statistical Algorithm Menu</h3>
 ![](4.JPG)
-<h3>Standard Deviation</h3>
+<h3>Mean</h3>
 ![](5.JPG)
-<h3>Summation</h3>
+<h3>Standard Deviation</h3>
 ![](6.JPG)
-<h3>Matrix Operations</h3>
+<h3>Summation</h3>
 ![](7.JPG)
-<h3>Matrix 1</h3>
+<h3>Matrix Menu</h3>
 ![](8.JPG)
-<h3>Matrix 2</h3>
+<h3>Matrix 1</h3>
 ![](9.JPG)
 ![](10.JPG)
 ![](11.JPG)
