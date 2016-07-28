@@ -1,20 +1,26 @@
 # lbyec72-ei2-p3-single_multidimensional_arrays-davidrenes
 lbyec72-ei2-p3-single_multidimensional_arrays-davidrenes created by GitHub Classroom
 <h3>Menu</h3>
-![](menu.PNG)
+![](1.PNG)
 <h3>Polynomial</h3>
-![](polynomial.PNG)
+![](2.PNG)
 <h3>Statistical Algorithm</h3>
-![](stat.PNG)
+![](3.PNG)
 <h3>Mean</h3>
-![](mean.PNG)
+![](4.PNG)
 <h3>Standard Deviation</h3>
-![](stddev.PNG)
+![](5.PNG)
 <h3>Summation</h3>
-![](summation.PNG)
+![](6.PNG)
 <h3>Matrix Operations</h3>
-![](matrix.PNG)
+![](7.PNG)
 <h3>Matrix 1</h3>
-![](matrix1.PNG)
+![](8.PNG)
 <h3>Matrix 2</h3>
-![](matrix2.PNG)
+![](9.PNG)
+![](10.PNG)
+![](11.PNG)
+![](12.PNG)
+![](13.PNG)
+![](14.PNG)
+![](15.PNG)
