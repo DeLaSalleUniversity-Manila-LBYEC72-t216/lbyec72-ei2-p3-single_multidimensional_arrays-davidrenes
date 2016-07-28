@@ -18,9 +18,15 @@ lbyec72-ei2-p3-single_multidimensional_arrays-davidrenes created by GitHub Class
 ![](8.JPG)
 <h3>Matrix 1</h3>
 ![](9.JPG)
+<h3>Matrix 2</h3>
 ![](10.JPG)
+<h3>Show Both Matrices</h3>
 ![](11.JPG)
+<h3>A + B</h3>
 ![](12.JPG)
+<h3>A x B</h3>
 ![](13.JPG)
+<h3>Transpose of Matrix A</h3>
 ![](14.JPG)
+<h3>Transpose of Matrix B</h3>
 ![](15.JPG)
